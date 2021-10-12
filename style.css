@@ -1,0 +1,45 @@
+body {
+}
+
+.logo {
+  width: 200px;
+  height: 100px;
+}
+
+h1,
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+}
+
+h1 {
+  color: rgb(59, 137, 255);
+}
+
+.whoiswho {
+  padding-top: 1em;
+}
+
+.blauwe-kader {
+  margin: 0 auto;
+  width: 65%;
+}
+
+.DC-All-Acces {
+  float: left;
+  margin-right: 1em;
+}
+
+.Wonder-Woman {
+  float: left;
+}
+
+.tweede-kader {
+  margin: 0 auto;
+  clear: both;
+  width: 65%;
+}
+
+.tweede-kader > div {
+  float: left;
+}
